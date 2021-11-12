@@ -1,0 +1,33 @@
+h1{
+    color: green;
+    font-family: sans-serif ;
+}
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-image: url('index.html')
+}
+
+a{
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+a:hover{
+    background-color: aqua;
+    color: £ffffff;
+}
+
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua
+}
+th{
+    font-weight: 800;
+    background-color: cyan
+}
